@@ -1,0 +1,18 @@
+/* dark.css */
+
+body {
+    background-color: #33373a;
+    color: #cbd0d0;
+}
+
+#github {
+    background-image: url("/assets/img/github-dark.svg");
+}
+
+#color-scheme-toggle-body {
+    background-image: url("/assets/img/switch-left-body.svg");
+}
+
+#color-scheme-toggle-head {
+    background-image: url("/assets/img/switch-left-head.svg");
+}

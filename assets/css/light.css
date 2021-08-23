@@ -1,0 +1,18 @@
+/* light.css */
+
+body {
+    background-color: #ececec;
+    color: #4d4d4d;
+}
+
+#github {
+    background-image: url("/assets/img/github-light.svg");
+}
+
+#color-scheme-toggle-body {
+    background-image: url("/assets/img/switch-right-body.svg");
+}
+
+#color-scheme-toggle-head {
+    background-image: url("/assets/img/switch-right-head.svg");
+}
